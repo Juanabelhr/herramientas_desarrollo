@@ -1,1 +1,1 @@
-Prueba de conflicto remoto desde mi PC
+Prueba de conflicto remoto desde mi PC local
