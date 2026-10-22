@@ -1,1 +1,1 @@
-Modificación hecha en la rama principal.
+Texto inicial de la clase de Herramientas de Desarrollo.
