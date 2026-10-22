@@ -1,1 +1,1 @@
-Texto inicial de la clase de Herramientas de Desarrollo.
+Modificación hecha en la rama secundaria.
